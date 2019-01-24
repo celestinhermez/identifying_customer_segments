@@ -5,3 +5,19 @@ This project was completed as part of Udacity's nanodegree to illustrate concept
 This was a case study developed by Udacity in partnership with AZ Direct and Arvato Finance Solutions who provided real world data. As such, I am not authorized to share the raw data, and the code included in the Jupyter notebook cannot be run. Yet, I still wanted to display this project here to highlight how unsupervised learning techniques can be used to provide valuable insights to businesses.
 
 The Jupyter notebook (both in `ipynb` and `html` formats) describe the analysis conducted in this project. I followed the usual data science steps, outlined below.
+
+## Data Wrangling
+
+We load several files which were part of the case study (not available in this repository because the data does not belong to me). In particular, one file contains demographic information about the entire population of Germany, another about customers of a mail-order company. Both have the same features, which are described in separate documents.
+
+## Data Cleaning
+
+## Data Exploration
+
+## Feature Engineering
+
+## Modeling
+
+## Results
+
+## Conclusion
